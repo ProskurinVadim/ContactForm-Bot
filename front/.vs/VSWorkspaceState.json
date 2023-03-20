@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\common",
+    "\\src\\components\\common\\Input",
+    "\\src\\components\\common\\Toggler",
+    "\\src\\hooks",
+    "\\src\\pages",
+    "\\src\\pages\\AuthPage",
+    "\\src\\pages\\AuthPage\\Login"
+  ],
+  "SelectedNode": "\\src\\pages\\AuthPage\\AuthPage.tsx",
+  "PreviewInSolutionExplorer": false
+}
