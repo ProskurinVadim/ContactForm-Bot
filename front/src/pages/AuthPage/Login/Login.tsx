@@ -3,7 +3,7 @@ import { Input } from "@components/common";
 import { useInput } from "hooks/useInpur";
 import Form from "../Form";
 import { emailValidator, passwordValidator } from "utils/validate";
-import { emailError, passwordError, confirmError } from "../errorsNames";
+import { emailError, passwordError } from "../errorsNames";
     
 
 const Login: React.FC = () => {
@@ -37,7 +37,6 @@ const Login: React.FC = () => {
             />
         </div>
     )
-}
 }
 
 export default Login
